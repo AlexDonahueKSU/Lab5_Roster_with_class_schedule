@@ -1,4 +1,4 @@
-# Lab4: Roster Without Conflics
+# Lab5: Roster With Classes
 
 ## How to run
 1. Compile with g++ roster.cpp -o main
